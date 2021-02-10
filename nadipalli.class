@@ -1,0 +1,14 @@
+
+import React, {Component} from 'react';
+
+class gitRevision extends Component{
+render(){
+return{
+"GOOD MORNING";
+"HELLO WORLD. I'm SAI.";
+"second time adding the text line";
+}
+}
+}
+
+
